@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UGC Creator", "UGC Creator\UGC Creator.csproj", "{B3429C5E-DEB8-42DE-A2E2-0FE36CC17DC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3429C5E-DEB8-42DE-A2E2-0FE36CC17DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3429C5E-DEB8-42DE-A2E2-0FE36CC17DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3429C5E-DEB8-42DE-A2E2-0FE36CC17DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3429C5E-DEB8-42DE-A2E2-0FE36CC17DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4D1F388-E7F7-410E-9694-D06FE3F9FCAC}
+	EndGlobalSection
+EndGlobal
